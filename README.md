@@ -1,16 +1,19 @@
-### Hi there 👋
+![Header]()
 
-<!--
-**pilojin/pilojin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### EN
+___
+# Hello, everyone!
+## I'm translator english documentation, and beginner YouTuber!
+ 
+### My link (all social network): [here](https://uadd.me/pilojintranslate).
 
-Here are some ideas to get you started:
+Check my repositories <3
+___
+### RU
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Привет!
+## Я переводчик англоязычной документации и начинающий Ютубер!
+### Мой линк (все соц.сети и ресурсы): [здесь](https://uadd.me/pilojintranslate).
+
+Посмотри мои репозитории <3
+___
